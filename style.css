@@ -1,0 +1,42 @@
+/* ------------------------above this line is index page style------------------------------------------*/
+
+body {
+    width: 100%;
+    height: 250px;
+}
+
+header {
+    background-color: blanchedalmond;
+    padding: 5px;
+    grid-area: header;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: double 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 400%;
+}
+
+nav {
+    font-weight: bold;
+    font-size: 150%;
+    text-align: center;
+    text-decoration: none;
+}
+
+div {
+    display: flex;
+    margin: 10px;
+}
+
+img {
+    width: 30%;
+}
+
+footer {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    font-style: italic;
+}
